@@ -18,3 +18,10 @@ function preparationTimeInMinutes(layers){
     return 2 *layers;
 }
 console.log(preparationTimeInMinutes(4));
+
+function totalTimeInMinutes(numberOfLayers,actualMinutesInOven){
+
+    return numberOfLayers * 2 + actualMinutesInOven;
+}
+
+console.log(totalTimeInMinutes(5,5));
