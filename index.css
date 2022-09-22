@@ -29,14 +29,19 @@ body{
     padding: 20px;
 }
 #case-3{
-    Width: 32px;
-    Padding: 5px;
+    Width: 30%;
+    Padding: 20px;
     Border: 2px solid green;
     Margin: 0;
+    min-height: 30px;
 }
 #case-4{
-    Width: 32px;
-    Padding: 5px;
+    Width: 30%;
+    Padding: 20px;
     Border: 2px solid green;
     Margin: 0;
+    min-height: 30px;
+}
+body{
+    background-color: red;
 }
