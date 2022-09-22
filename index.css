@@ -17,8 +17,7 @@ body{
     Margin: 0;
     min-height: 30px;
     padding: 20px;
-    display: inline;
-    
+    display: inline; 
 }
 #case-2{
     Width: 30%;
@@ -41,7 +40,4 @@ body{
     Border: 2px solid green;
     Margin: 0;
     min-height: 30px;
-}
-body{
-    background-color: red;
 }
