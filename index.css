@@ -1,0 +1,33 @@
+*{
+padding: 0;
+margin: 0;
+}
+.flex-box{
+    display: flex;
+    flex-direction: column;
+    background-color:blue;
+}
+#case-1{
+    Width: 32px;
+    Padding: 5px;
+    Border: 2px solid green;
+    Margin: 0;
+}
+#case-2{
+    Width: 32px;
+    Padding: 5px;
+    Border: 2px solid green;
+    Margin: 0;
+}
+#case-3{
+    Width: 32px;
+    Padding: 5px;
+    Border: 2px solid green;
+    Margin: 0;
+}
+#case-4{
+    Width: 32px;
+    Padding: 5px;
+    Border: 2px solid green;
+    Margin: 0;
+}
